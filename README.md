@@ -3,6 +3,8 @@ Augmeal
 
 Augmented reality android app to view dishes.
 
+<img src="http://i.imgur.com/UVF4jTk.png" alt="Icon" height="250" width="250"> 
+
 Developed at [hackernest: construct hackathon](http://hackernest.com/construct/)  
 Check out the [winners and highlight video](http://hackernest.com/hackernest-construct-hackathon-winners/) !
 
