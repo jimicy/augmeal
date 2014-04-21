@@ -8,13 +8,13 @@ Augmented reality android app to view dishes.
 Developed at [hackernest: construct hackathon](http://hackernest.com/construct/)  
 Check out the [winners and highlight video](http://hackernest.com/hackernest-construct-hackathon-winners/) !
 
-Team Asian Invasion (Team mates complained about the name, well they should have stopped me :p)
+Team Asian Invasion
 
 - Jimmy (Me, Team Leader, Developer)
 - Kent (Developer)
 - Simon (Developer)
 - Peng Fei (Developer)
-- Raymond ("Lead Designer" [only designer])
+- Raymond (Lead Designer)
 
 Uses Unity and vuforia SDK.
 
