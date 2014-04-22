@@ -10,7 +10,7 @@ Check out the [winners and highlight video](http://hackernest.com/hackernest-con
 
 Team Asian Invasion
 
-- Jimmy (Me, Team Leader, Developer)
+- Jimmy (Team Leader, Developer)
 - Kent (Developer)
 - Simon (Developer)
 - Peng Fei (Developer)
