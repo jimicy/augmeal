@@ -1,26 +1,16 @@
 Augmeal
 =======
 
-Augmented reality android app to view dishes.
+Augmented reality android app to view dishes. Uses Unity and vuforia SDK.  
 
 <img src="http://i.imgur.com/UVF4jTk.png" alt="Icon" height="250" width="250"> 
 
 Developed at [hackernest: construct hackathon](http://hackernest.com/construct/)  
 Check out the [winners and highlight video](http://hackernest.com/hackernest-construct-hackathon-winners/) !
 
-###Team Asian Invasion
-
-- Jimmy (Team Leader, Developer)
-- Kent (Developer)
-- Simon (Developer)
-- Peng Fei (Developer)
-- Raymond (Lead Designer)
-
-Uses Unity and vuforia SDK.  
 [Download android app](https://github.com/Jimicy/augmeal/blob/master/augmeal.apk?raw=true)
 
-Marker is a QR generated from http://jimicy.com/augmeal  
-[Download marker](http://i.imgur.com/dmhVKFx.jpg)
+Marker is a QR generated from "http://jimicy.com/augmeal" [Download marker](http://i.imgur.com/dmhVKFx.jpg)
 
 ![Imgur](http://i.imgur.com/SbeTMSu.jpg)
 
@@ -35,3 +25,10 @@ Scrolling is not smooth.
 Text too small on menu screen.  
 Optimize Load time.  
 Add auto focus to camera view.
+
+***Team Asian Invasion***
+- Jimmy (Team Leader, Developer)
+- Kent (Developer)
+- Simon (Developer)
+- Peng Fei (Developer)
+- Raymond (Lead Designer)
