@@ -16,8 +16,7 @@ Check out the [winners and highlight video](http://hackernest.com/hackernest-con
 - Peng Fei (Developer)
 - Raymond (Lead Designer)
 
-Uses Unity and vuforia SDK.
-
+Uses Unity and vuforia SDK.  
 [Download android app](https://github.com/Jimicy/augmeal/blob/master/augmeal.apk?raw=true)
 
 Marker is a QR generated from http://jimicy.com/augmeal  
