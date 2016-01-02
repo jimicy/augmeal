@@ -3,7 +3,7 @@ Augmeal
 
 Augmented reality android app to view dishes. Uses Unity and vuforia SDK.  
 
-<img src="http://i.imgur.com/UVF4jTk.png" alt="Icon" height="200" width="200"> 
+<img src="http://i.imgur.com/YPH752l.png" alt="Icon" height="200" width="200"> 
 
 Developed at [hackernest: construct hackathon](http://hackernest.com/construct/)  
 Check out the [winners and highlight video](http://hackernest.com/hackernest-construct-hackathon-winners/) !
